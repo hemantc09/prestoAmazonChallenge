@@ -4,14 +4,14 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.BeforeSuite;
 import com.presto.utilities.Utilities;
@@ -36,6 +36,7 @@ public class TestCase001_SearchPage {
 
 		// pass driver to constructor
 		searchPage = new SearchPageFactory(driver);
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 	}
 
@@ -60,33 +61,20 @@ public class TestCase001_SearchPage {
 			// add the href attribute value the list
 			hrefList.add(tempHref);
 		}
-		//if no "Best Seller Items found then add log to the result"
-		if(hrefList.size() < 1) {
+		// if no "Best Seller Items found then add log to the result"
+		if (hrefList.size() < 1) {
 			log.info("*******************No Best Seller Items Found for the search results*******************");
 		}
-		
-		log.info(" List best Sellers total count found " + hrefList.size());
 
+		log.info(" List best Sellers total count found " + hrefList.size());
 		// Add all items found to the list
 		for (String sel : hrefList) {
 			// visit each list href item
 			driver.get(sel);
-
-			WebDriverWait wait = new WebDriverWait(driver, 20);
-			// Explicit wait until the add-to-cart-button visible and perform click action
-			wait.until(ExpectedConditions.elementToBeClickable(By.id("add-to-cart-button"))).click();
-			driver.navigate().refresh();
-			// wait until you see 'Added to Cart' text visible on webpage
-			By byXpath = By.xpath("//*[contains(text(),'Added to')]");
-			WebElement myDynamicElement = (new WebDriverWait(driver, 15))
-					.until(ExpectedConditions.presenceOfElementLocated(byXpath));
+			driver.findElement(By.id("add-to-cart-button")).click();
 			expectedCartcount = hrefList.size();
-
-			System.out.println(myDynamicElement.getText());
-			// verify items added to cart
-			Assert.assertEquals(myDynamicElement.getText(), "Added to Cart");
 			log.info("------Item added to Cart---------");
-			driver.navigate().refresh();
+			// driver.navigate().refresh();
 		}
 		log.info(expectedCartcount + " Items added to Cart");
 	}
@@ -105,6 +93,6 @@ public class TestCase001_SearchPage {
 	@AfterClass
 	public void afterClass() {
 		driver.quit();
-		log.info("*********  Finished TC001_SearchPager **********");
+		log.info("*********  Finished TC001_SearchPage **********");
 	}
 }

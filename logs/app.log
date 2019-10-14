@@ -1,128 +1,24 @@
-13:49:24.841 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-13:49:30.559 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-13:49:34.128 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-13:49:46.239 INFO  TestCase001_SearchPage -Final Cart count found1
-13:49:48.280 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-13:52:59.242 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-13:53:04.980 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-13:53:08.853 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-13:53:19.922 INFO  TestCase001_SearchPage -2 Itemss added to Cart
-13:53:23.524 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-14:39:26.758 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-14:39:32.230 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-14:39:35.704 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-14:39:46.326 INFO  TestCase001_SearchPage -2 Items added to Cart
-14:40:03.851 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-14:41:27.075 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-14:41:32.410 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-14:41:36.426 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-14:41:47.293 INFO  TestCase001_SearchPage -2 Items added to Cart
-14:41:51.565 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-14:47:49.850 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-14:47:54.913 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-14:47:59.947 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-14:48:15.368 INFO  TestCase001_SearchPage -2 Items added to Cart
-14:48:15.483 INFO  TestCase001_SearchPage -Final Cart count found 1
-14:48:32.952 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-14:49:52.155 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-14:49:57.478 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-14:50:03.986 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-14:50:24.067 INFO  TestCase001_SearchPage -2 Items added to Cart
-14:50:24.227 INFO  TestCase001_SearchPage -Final Cart count found 1
-14:50:28.578 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-14:55:52.363 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-14:55:57.153 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-14:56:02.597 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-14:56:26.057 INFO  TestCase001_SearchPage -2 Items added to Cart
-14:56:27.199 INFO  TestCase001_SearchPage -Final Cart count found 2
-14:56:29.753 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-14:58:36.149 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-14:58:41.226 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-14:58:47.337 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-14:59:10.400 INFO  TestCase001_SearchPage -2 Items added to Cart
-14:59:11.402 INFO  TestCase001_SearchPage -Final Cart count found 1
-14:59:14.595 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-15:00:01.268 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-15:00:05.916 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-15:00:09.213 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-15:00:28.598 INFO  TestCase001_SearchPage -2 Items added to Cart
-15:00:29.722 INFO  TestCase001_SearchPage -Final Cart count found 2
-15:00:31.783 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-15:34:32.842 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-15:34:38.143 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-15:34:41.664 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-15:35:04.292 INFO  TestCase001_SearchPage -2 Items added to Cart
-15:35:05.323 INFO  TestCase001_SearchPage -Final Cart count found 1
-15:35:09.539 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-15:35:50.554 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-15:35:56.157 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-15:35:59.861 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-15:36:24.470 INFO  TestCase001_SearchPage -2 Items added to Cart
-15:36:25.454 INFO  TestCase001_SearchPage -Final Cart count found 2
-15:36:28.817 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-15:51:50.377 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-15:51:55.300 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-15:51:58.901 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-15:52:20.188 INFO  TestCase001_SearchPage -2 Items added to Cart
-15:52:22.011 INFO  TestCase001_SearchPage -Final Cart count found 2
-15:52:25.168 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-15:54:55.409 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-15:55:00.701 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-15:55:04.480 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-15:55:26.599 INFO  TestCase001_SearchPage -2 Items added to Cart
-15:55:27.898 INFO  TestCase001_SearchPage -Final Cart count found 2
-15:55:31.092 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-15:57:32.708 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-15:57:37.648 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-15:57:41.835 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-15:58:05.179 INFO  TestCase001_SearchPage -2 Items added to Cart
-15:58:08.466 INFO  TestCase001_SearchPage -Final Cart count found 1
-15:58:10.695 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-15:59:25.811 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-15:59:31.097 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-15:59:35.224 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-15:59:47.231 INFO  TestCase001_SearchPage -Final Cart count found 1
-15:59:50.284 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-16:00:18.733 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-16:00:23.812 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-16:00:31.265 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-16:00:44.882 INFO  TestCase001_SearchPage -2 Items added to Cart
-16:00:46.028 INFO  TestCase001_SearchPage -Final Cart count found 2
-16:00:50.207 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-16:02:27.910 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-16:02:32.679 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-16:02:37.541 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-16:02:44.261 INFO  TestCase001_SearchPage -Final Cart count found 1
-16:02:46.512 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-16:03:14.370 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-16:03:19.644 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-16:03:23.447 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-16:03:30.741 INFO  TestCase001_SearchPage -------Item added to Cart---------
-16:03:37.269 INFO  TestCase001_SearchPage -------Item added to Cart---------
-16:03:38.110 INFO  TestCase001_SearchPage -2 Items added to Cart
-16:03:38.272 INFO  TestCase001_SearchPage -Final Cart count found 2
-16:03:39.491 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-16:04:19.436 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-16:04:24.490 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-16:04:28.712 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-16:04:35.135 INFO  TestCase001_SearchPage -------Item added to Cart---------
-16:04:42.137 INFO  TestCase001_SearchPage -------Item added to Cart---------
-16:04:43.092 INFO  TestCase001_SearchPage -2 Items added to Cart
-16:04:43.278 INFO  TestCase001_SearchPage -Final Cart count found 2
-16:04:45.454 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-16:22:18.523 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-16:22:23.243 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-16:22:27.826 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-16:22:34.637 INFO  TestCase001_SearchPage -------Item added to Cart---------
-16:22:41.751 INFO  TestCase001_SearchPage -------Item added to Cart---------
-16:22:42.928 INFO  TestCase001_SearchPage -2 Items added to Cart
-16:22:43.057 INFO  TestCase001_SearchPage -Final Cart count found 2
-16:22:45.119 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
-16:23:18.613 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
-16:23:23.834 INFO  TestCase001_SearchPage - Test testAddBestSeller started
-16:23:27.047 INFO  TestCase001_SearchPage - List best Sellers total count found 2
-16:23:33.200 INFO  TestCase001_SearchPage -------Item added to Cart---------
-16:23:44.261 INFO  TestCase001_SearchPage -------Item added to Cart---------
-16:23:45.394 INFO  TestCase001_SearchPage -2 Items added to Cart
-16:23:45.555 INFO  TestCase001_SearchPage -Final Cart count found 2
-16:23:48.623 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPager **********
+17:24:54.026 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
+17:24:59.696 INFO  TestCase001_SearchPage - Test testAddBestSeller started
+17:25:04.254 INFO  TestCase001_SearchPage - List best Sellers total count found 2
+17:25:10.380 INFO  TestCase001_SearchPage -------Item added to Cart---------
+17:25:15.237 INFO  TestCase001_SearchPage -------Item added to Cart---------
+17:25:15.238 INFO  TestCase001_SearchPage -2 Items added to Cart
+17:25:15.387 INFO  TestCase001_SearchPage -Final Cart count found 2
+17:25:19.603 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPage **********
+17:27:24.017 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
+17:27:29.682 INFO  TestCase001_SearchPage - Test testAddBestSeller started
+17:27:33.366 INFO  TestCase001_SearchPage - List best Sellers total count found 2
+17:27:39.182 INFO  TestCase001_SearchPage -------Item added to Cart---------
+17:27:44.912 INFO  TestCase001_SearchPage -------Item added to Cart---------
+17:27:44.913 INFO  TestCase001_SearchPage -2 Items added to Cart
+17:27:45.000 INFO  TestCase001_SearchPage -Final Cart count found 2
+17:27:48.199 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPage **********
+17:31:10.050 INFO  TestCase001_SearchPage -********* Started TC001_SearchPage  **********
+17:31:15.618 INFO  TestCase001_SearchPage - Test testAddBestSeller started
+17:31:19.428 INFO  TestCase001_SearchPage - List best Sellers total count found 2
+17:31:25.241 INFO  TestCase001_SearchPage -------Item added to Cart---------
+17:31:30.125 INFO  TestCase001_SearchPage -------Item added to Cart---------
+17:31:30.125 INFO  TestCase001_SearchPage -2 Items added to Cart
+17:31:30.403 INFO  TestCase001_SearchPage -Final Cart count found 2
+17:31:32.606 INFO  TestCase001_SearchPage -*********  Finished TC001_SearchPage **********

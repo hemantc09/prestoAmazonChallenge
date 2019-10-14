@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-10-13T16:23:23 PDT" name="AmzonHeadPhoneOrdersSuite" finished-at="2019-10-13T16:23:48 PDT" duration-ms="24916">
+  <suite started-at="2019-10-13T17:31:15 PDT" name="AmzonHeadPhoneOrdersSuite" finished-at="2019-10-13T17:31:32 PDT" duration-ms="17096">
     <groups>
     </groups>
-    <test started-at="2019-10-13T16:23:23 PDT" name="HeadPhoneOrdersTest" finished-at="2019-10-13T16:23:48 PDT" duration-ms="24916">
+    <test started-at="2019-10-13T17:31:15 PDT" name="HeadPhoneOrdersTest" finished-at="2019-10-13T17:31:32 PDT" duration-ms="17096">
       <class name="com.presto.testclasses.TestCase001_SearchPage">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.presto.testclasses.TestCase001_SearchPage@1c39680d]" started-at="2019-10-13T16:23:18 PDT" name="beforeClass" finished-at="2019-10-13T16:23:23 PDT" duration-ms="5107" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.presto.testclasses.TestCase001_SearchPage@1b2c4efb]" started-at="2019-10-13T17:31:10 PDT" name="beforeClass" finished-at="2019-10-13T17:31:15 PDT" duration-ms="5475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="testAddBestSeller()[pri:0, instance:com.presto.testclasses.TestCase001_SearchPage@1c39680d]" started-at="2019-10-13T16:23:23 PDT" name="testAddBestSeller" finished-at="2019-10-13T16:23:45 PDT" duration-ms="21561" status="PASS">
+        <test-method signature="testAddBestSeller()[pri:0, instance:com.presto.testclasses.TestCase001_SearchPage@1b2c4efb]" started-at="2019-10-13T17:31:15 PDT" name="testAddBestSeller" finished-at="2019-10-13T17:31:30 PDT" duration-ms="14509" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddBestSeller -->
-        <test-method signature="verifyCartItems()[pri:0, instance:com.presto.testclasses.TestCase001_SearchPage@1c39680d]" started-at="2019-10-13T16:23:45 PDT" name="verifyCartItems" finished-at="2019-10-13T16:23:45 PDT" duration-ms="151" status="PASS">
+        <test-method signature="verifyCartItems()[pri:0, instance:com.presto.testclasses.TestCase001_SearchPage@1b2c4efb]" started-at="2019-10-13T17:31:30 PDT" name="verifyCartItems" finished-at="2019-10-13T17:31:30 PDT" duration-ms="256" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCartItems -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.presto.testclasses.TestCase001_SearchPage@1c39680d]" started-at="2019-10-13T16:23:45 PDT" name="afterClass" finished-at="2019-10-13T16:23:48 PDT" duration-ms="3068" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.presto.testclasses.TestCase001_SearchPage@1b2c4efb]" started-at="2019-10-13T17:31:30 PDT" name="afterClass" finished-at="2019-10-13T17:31:32 PDT" duration-ms="2198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
